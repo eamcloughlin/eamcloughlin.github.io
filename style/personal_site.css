@@ -47,6 +47,9 @@ a:visited {
 a:hover {
     background-color: #CCFFFF;
 }
+a.social-button:hover {
+    background-color: transparent;
+}
 h1 {
     font-family: 'Sigmar One', cursive;
 }
